@@ -3,7 +3,7 @@
 
 # Education
 * Bachelors of Technology, *IIT-Bombay*, 2014-2018
-![Minion](https://github.com/tejaswiniallikanti/Portfolio/blob/main/75462481_2477505039205371_2039144785880547328_n.jpeg)
+![Minion](https://github.com/tejaswiniallikanti/Portfolio/blob/main/new-skills-knowledge-webinar-training-business-internet-technology-concept-new-skills-knowledge-webinar-training-business-internet-121274023.jpeg)
 
 # [Project 1: Shape Detection](https://github.com/tejaswiniallikanti/shapedetection)
 
