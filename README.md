@@ -8,8 +8,8 @@
 # [Project 1: Shape Detection](https://github.com/tejaswiniallikanti/shapedetection)
 
 This project detects the shapes of the objects in a video
-* **Python libraries used:** OPenCV
-* **Input:** video
+* **Python libraries used:** OPenCV 
+* **Input:** video images
 * **Output:** Shapes of objects
 
 # [Project 2: Feature Detection](https://github.com/tejaswiniallikanti/features)
