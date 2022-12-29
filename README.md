@@ -1,5 +1,5 @@
-# Tejaswini
-*Asst Manager, Machine Learning and Artificial intelligence program*
+# Tejaswini Allikanti
+*Manager, Machine Learning and Artificial intelligence program*
 
 # Education
 * Bachelors of Technology, *IIT-Bombay*, 2014-2018
