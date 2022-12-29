@@ -12,7 +12,7 @@ This project detects the shapes of the objects in a video
 * **Input:** video images
 * **Output:** Shapes of objects
 
-# [Project 2: Customer_Churn_MLOps_Pipeline_Open_Source](https://github.com/tejaswiniallikanti/shapedetection)
+### [Project 2: Customer_Churn_MLOps_Pipeline_Open_Source](https://github.com/tejaswiniallikanti/shapedetection)
 
 This project detects the shapes of the objects in a video
 * **Python libraries used:** OPenCV 
